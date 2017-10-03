@@ -1,0 +1,60 @@
+.ui.borderless.top.menu{
+  background-color: white;
+  height: 100px;
+  box-shadow: none;
+  shadow: none;
+  border: none;
+}
+
+
+.ui.seven.column.grid.container{
+  border: none;
+  box-shadow: none;
+  shadow: none;
+  padding-top: 50px;
+  padding-bottom: 25px;
+}
+
+.text{
+  color: #00688c;
+}
+
+ui.dropdown.item {
+  color: #00688c;
+  text-decoration: none;
+}
+
+ui.dropdown.item:hover {
+  text-decoration: underline;
+}
+
+.image {
+  position: relative;
+}
+
+.center-text {
+  position: absolute;
+  color: white;
+  padding-left: 30%;
+  top: 25%;
+  border-top: 8px solid white;
+  border-bottom: 8px solid white;
+  font: bold 100px "Lora", serif;
+  line-height: 1.2;
+}
+
+.footer-background {
+  box-shadow: none;
+  border: none;
+  border-top: none;
+  border-bottom: none;
+  right: 100%;
+  background-color: white;
+  padding-top: 25px;
+  padding-bottom: 25px;
+  font-family: "Gill Sans",sans-serif;
+}
+
+.bottom-info{
+  padding-left: 20px;
+}
